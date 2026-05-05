@@ -53,7 +53,7 @@ export default function DashboardPage() {
           <ListTodo className="h-12 w-12 text-blue-600" />
         </div>
         <div className="max-w-md">
-          <h1 className="text-2xl font-bold text-slate-900">Welcome to Ethera AI</h1>
+          <h1 className="text-2xl font-bold text-slate-900">Welcome to Ethara AI</h1>
           <p className="text-slate-500 mt-2">To get started, you'll need to create or join a team. Teams are where projects and tasks live.</p>
         </div>
         <Link 

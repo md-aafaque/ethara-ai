@@ -4,7 +4,7 @@ export default function LandingPage() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-slate-50 p-6 text-center">
       <h1 className="text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
-        Manage Tasks with <span className="text-blue-600">Ethera AI</span>
+        Manage Tasks with <span className="text-blue-600">Ethara AI</span>
       </h1>
       <p className="mt-6 max-w-2xl text-lg text-slate-600">
         The ultimate team collaboration platform. Organize projects, assign tasks, and track progress all in one place.

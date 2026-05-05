@@ -1,6 +1,6 @@
-# Ethera AI - Team Task Manager
+# Ethara AI - Team Task Manager
 
-Ethera AI is a robust full-stack Team Task Manager designed to streamline collaboration, project management, and task tracking. It features a sophisticated team-level Role-Based Access Control (RBAC) system, ensuring secure data isolation and clear accountability.
+Ethara AI is a robust full-stack Team Task Manager designed to streamline collaboration, project management, and task tracking. It features a sophisticated team-level Role-Based Access Control (RBAC) system, ensuring secure data isolation and clear accountability.
 
 ## 🚀 Features
 
@@ -63,7 +63,7 @@ Visit `http://localhost:3000` to see the app.
 ## 📽 Demo Script
 
 ### 1. Introduction (30s)
-"Hi, I'm [Name]. I built Ethera AI, a Team Task Manager designed to solve the chaos of team collaboration using strict role-based access control."
+"Hi, I'm [Name]. I built Ethara AI, a Team Task Manager designed to solve the chaos of team collaboration using strict role-based access control."
 
 ### 2. Live Flow (2m)
 - **Auth**: Show login/signup.

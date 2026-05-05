@@ -109,7 +109,7 @@ export default function TeamsPage() {
         </div>
         <div className="max-w-md">
           <h1 className="text-2xl font-bold text-slate-900">Create your first team</h1>
-          <p className="text-slate-500 mt-2">Teams are the foundation of Ethera AI. Create a team to start managing projects and collaborating with others.</p>
+          <p className="text-slate-500 mt-2">Teams are the foundation of Ethara AI. Create a team to start managing projects and collaborating with others.</p>
         </div>
         <button 
           onClick={() => setIsCreatingTeam(true)}

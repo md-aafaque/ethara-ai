@@ -8,7 +8,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Ethera AI - Team Task Manager',
+  title: 'Ethara AI - Team Task Manager',
   description: 'Collaborate and manage projects effectively.',
 };
 
